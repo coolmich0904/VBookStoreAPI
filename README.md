@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-      <td><strong>[Package Manager Console](#)</strong></td>
+      <td><strong>Package Manager Console</strong></td>
     <td><strong>Command Line Interface</strong></td>
   </tr>  
   <tr>
