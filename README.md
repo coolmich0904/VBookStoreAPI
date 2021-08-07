@@ -25,7 +25,7 @@
 #### Run From Anywhere
 <table>
   <tr>
-      <td><strong><span style="color:blue">*Package Manager Console*</span></strong></td>
+      <td style="color: blue"><strong>Package Manager Console</strong></td>
     <td><strong>!Command Line Interface</strong></td>
   </tr>  
   <tr>
