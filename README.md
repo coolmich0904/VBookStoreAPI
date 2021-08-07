@@ -23,11 +23,21 @@
 ```
 
 #### Run From Anywhere
+
+<style>
+.tb-color {
+    width: 70%;
+    text-align: center;
+}
+
+.tb-color tr:nth-child(1) { color: orange; }
+</style>
+
 <div class="tb-color"> 
 <table>
   <tr>
       <td><strong>Package Manager Console</strong></td>
-    <td><strong>!Command Line Interface</strong></td>
+    <td><strong>Command Line Interface</strong></td>
   </tr>  
   <tr>
     <td>Add-Migration InitialCreate</td>
@@ -52,12 +62,4 @@
 </table>
 </div>
 
-<style>
-.tb-color {
-    width: 70%;
-    text-align: center;
-}
-
-.tb-color tr:nth-child(1) { color: orange; }
-</style>
 
