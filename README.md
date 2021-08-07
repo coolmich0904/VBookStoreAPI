@@ -2,24 +2,24 @@
 
 ### Entity Framwork(EF) Core
 ```
--    Lightweight, extensible, open source, cross-platform 
-* EF Core can serve as an object-relational mapper (O/RM), which:
+- Lightweight, extensible, open source, cross-platform 
+- EF Core can serve as an object-relational mapper (O/RM), which:
 
     Enables .NET developers to work with a database using .NET objects.
     Eliminates the need for most of the data-access code that typically needs to be written.
 
-* EF Core supports many database engines such as
+- EF Core supports many database engines such as
     MS SQL Server, MySQL, Oracle, PostgreSQL, SQLite, and In-memory
 ```
 
 ### Migrations
 ```
-* Create a migration
-* Update the database
-* Remove a migration
-* Reverta migration
-* Customize migration code
-* Generate SQL scripts
+- Create a migration
+- Update the database
+- Remove a migration
+- Reverta migration
+- Customize migration code
+- Generate SQL scripts
 ```
 
 #### Run From Anywhere
