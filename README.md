@@ -14,7 +14,7 @@ EF Core supports many database engines such as
 
 ### Migrations
 ```
-- Create a migration
+--* Create a migration
 - Update the database
 - Remove a migration
 - Reverta migration
@@ -25,8 +25,8 @@ EF Core supports many database engines such as
 #### Run From Anywhere
 <table>
   <tr>
-    <td><strong>Package Manager Console</strong></td>
-    <td><strong>Command Line Interface</strong></td>
+    <td><strong>!Package Manager Console</strong></td>
+    <td><strong>!Command Line Interface</strong></td>
   </tr>  
   <tr>
     <td>Add-Migration InitialCreate</td>
