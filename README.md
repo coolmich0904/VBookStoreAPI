@@ -2,7 +2,7 @@
 
 ### Entity Framwork(EF) Core
 ```
-* Lightweight, extensible, open source, cross-platform 
+-    Lightweight, extensible, open source, cross-platform 
 * EF Core can serve as an object-relational mapper (O/RM), which:
 
     Enables .NET developers to work with a database using .NET objects.
